@@ -11,9 +11,9 @@ A simple counter app built using Flutter. This app demonstrates basic Flutter fe
 
 ## Screenshots
 
-![Counter - Splash screen](lib/assets/screenshot/splash-screen.png)
-![Counter - Initial screen](lib/assets/screenshot/initial-screen.png)
-![Counter app](lib/assets/screenshot/counter.png)
+<img src="lib/assets/screenshot/splash-screen.png" alt="Counter - Splash screen" width="300"/>
+<img src="lib/assets/screenshot/initial-screen.png" alt="Counter - Initial screen" width="300"/>
+<img src="lib/assets/screenshot/counter.png" alt="Counter app" width="300"/>
 
 ## Getting Started
 
