@@ -10,10 +10,11 @@ A simple counter app built using Flutter. This app demonstrates basic Flutter fe
 - **Reset**: Reset the counter to 0 with a refresh button press at top of the screen.
 
 ## Screenshots
-
+<div style="display: flex;  gap: 10px">
 <img src="lib/assets/screenshot/splash-screen.png" alt="Counter - Splash screen" width="300"/>
 <img src="lib/assets/screenshot/initial-screen.png" alt="Counter - Initial screen" width="300"/>
 <img src="lib/assets/screenshot/counter.png" alt="Counter app" width="300"/>
+</div>
 
 ## Getting Started
 
